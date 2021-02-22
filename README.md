@@ -20,4 +20,4 @@ Example, using the **Array()** constructor with the **fill()** method.
     findNemo(largeArray);
 We going to make this same function more efficient.
 
-
+![Image of bigO-complexity]('big-o-complexity-chart.png')
